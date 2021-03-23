@@ -1,6 +1,6 @@
-# MintKernel_Ticketing
-Mint Kernel For Sun Project In Central Series.
-Powered By Mint
+# fV23vnm8tspKQO0xgmQQLP1ssmUQmQBOFv1xi6EgtJ9aDX9COoTvUOZ0FoDp
+fV23vnm8tspKQO0xgmQQLP1ssmUQmQBOFv1xi6EgtJ9aDX9COoTvUOZ0FoDp
+Powered By fV23vnm8tspKQO0xgmQQLP1ssmUQmQBOFv1xi6EgtJ9aDX9COoTvUOZ0FoDp
 
-# 😺 Meow Tech Open Source
-Made with ❤ by Meow Tech Open Source
+# ❌ fV23vnm8tspKQO0xgmQQLP1ssmUQmQBOFv1xi6EgtJ9aDX9COoTvUOZ0FoDp
+Made with ❤ by fV23vnm8tspKQO0xgmQQLP1ssmUQmQBOFv1xi6EgtJ9aDX9COoTvUOZ0FoDp
