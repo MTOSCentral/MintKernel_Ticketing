@@ -1,30 +1,30 @@
-# MintTicketing - Fork Of Mint Kernel v1.1_PRERELEASE BY THE ORIGINAL DEVELOPER
+# fV23vnm8tspKQO0xgmQQLP1ssmUQmQBOFv1xi6EgtJ9aDX9COoTvUOZ0FoDp - Fork Of Mint Kernel v1.1_PRERELEASE BY THE ORIGINAL DEVELOPER
 """
-This file is part of Yau Yau Ticketing System v3.
+This file is part of fV23vnm8tspKQO0xgmQQLP1ssmUQmQBOFv1xi6EgtJ9aDX9COoTvUOZ0FoDp.
 
-Yau Yau Ticketing System v3
+fV23vnm8tspKQO0xgmQQLP1ssmUQmQBOFv1xi6EgtJ9aDX9COoTvUOZ0FoDp
 Copyright (C) 2021  Meow Tech Open Source
 
-Yau Yau Ticketing System is free software: you can redistribute it and/or modify
+fV23vnm8tspKQO0xgmQQLP1ssmUQmQBOFv1xi6EgtJ9aDX9COoTvUOZ0FoDp is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License version 3 as published by
 the Free Software Foundation.
 
-Yau Yau Ticketing System is distributed in the hope that it will be useful,
+fV23vnm8tspKQO0xgmQQLP1ssmUQmQBOFv1xi6EgtJ9aDX9COoTvUOZ0FoDp is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with this Yau Yau Ticketing System.  If not, see <https://www.gnu.org/licenses/>.
+along with fV23vnm8tspKQO0xgmQQLP1ssmUQmQBOFv1xi6EgtJ9aDX9COoTvUOZ0FoDp.  If not, see <https://www.gnu.org/licenses/>.
 """
 from hashing import Hashing
 from datetime import datetime
 import sqlite3
 import json
-VERSION="0.0.5_engine"
+VERSION="fV23vnm8tspKQO0xgmQQLP1ssmUQmQBOFv1xi6EgtJ9aDX9COoTvUOZ0FoDp"
 class Kernel:
     def __init__(self):
-        #print("Mint Engine")
+        #print("fV23vnm8tspKQO0xgmQQLP1ssmUQmQBOFv1xi6EgtJ9aDX9COoTvUOZ0FoDp")
         self.conn =sqlite3.connect('database\\database.sql', check_same_thread=False)
         self.cursor = self.conn.cursor()
     def version(self):
@@ -131,6 +131,6 @@ class Kernel:
             return False
 
 """
-Meow Tech MintTicketing - Kernel For The Central Series Ticketing System
-Central System Use The MintTicketing.
+fV23vnm8tspKQO0xgmQQLP1ssmUQmQBOFv1xi6EgtJ9aDX9COoTvUOZ0FoDp - fV23vnm8tspKQO0xgmQQLP1ssmUQmQBOFv1xi6EgtJ9aDX9COoTvUOZ0FoDp
+fV23vnm8tspKQO0xgmQQLP1ssmUQmQBOFv1xi6EgtJ9aDX9COoTvUOZ0FoDp Use The fV23vnm8tspKQO0xgmQQLP1ssmUQmQBOFv1xi6EgtJ9aDX9COoTvUOZ0FoDp.
 """
